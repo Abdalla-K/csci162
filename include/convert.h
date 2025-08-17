@@ -1,6 +1,3 @@
-//Abdalla Kharoub
-//665282497
-
 #ifndef CONVERT_H
 #define CONVERT_H
 
