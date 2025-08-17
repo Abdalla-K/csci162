@@ -1,6 +1,3 @@
-#Abdalla Kharoub
-#665282497
-
 CC = gcc
 CFLAGS = -Wall -Wextra -g
 
