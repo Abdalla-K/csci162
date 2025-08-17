@@ -1,6 +1,3 @@
-//Abdalla Kharoub
-//665282497
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
