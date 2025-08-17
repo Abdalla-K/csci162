@@ -1,6 +1,3 @@
-//Abdalla Kharoub
-//665282497
-
 #include "../include/convert.h"
 #include <stdio.h>
 #include <math.h>
